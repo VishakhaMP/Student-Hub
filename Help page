@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Student Hub</title>
+  <style>
+    header{
+      background: linear-gradient(100deg, #6343e4, #34acec);
+      padding: 10px;
+    }
+    #head{
+      font-size: 35px;
+      font-weight: 900;
+      color: white;
+      text-align: center;
+    }
+    body{
+      background: linear-gradient(90deg, #6343e4, #34acec);
+    }
+    footer{
+      height: 200px;
+      background-color:  rgb(0, 0, 0);
+      color: #fffeff;
+      border-radius: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .foot{
+      float: left;
+      margin-left: 100px;
+      margin-right: 100px;
+    }
+    .foot ul{
+      list-style: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+      <div id="head">Student Hub</div>
+  </header>
+  <hr color="black">
+
+  <div id="help">
+    <div>
+      <p>1. How to access pdf?</p>
+      <p>To access the pdf first you need to click the courses button <img id="pdf1" src=""> </p>
+      <p>Then click on the the subject as per your class and then you would be able to get the pdf <img id="pdf1" src=""> </p>
+    </div>
+    <div></div>
+    <div></div>
+  </div>
+
+  <footer>
+    <div class="foot">
+      <ul>
+        <h4><u>About Us</u></h4>
+        <li>Our Team</li>
+        <li>Our Motto</li>
+        <li>Blog</li>
+      </ul>
+    </div>
+    <div class="foot">
+      <ul>
+        <h4><u>Need Help?</u></h4>
+        <li>Help?</li>
+        <li>Terms and Conditions</li>
+        <li>Feedback or Suggetions</li>
+      </ul>
+    </div>
+    <div class="foot">
+      <ul>
+        <h4><u>Contact Us</u></h4>
+        <li>Email</li>
+        <li>Instagram</li>
+        <li>Linkedin</li>
+      </ul>
+    </div>
+  </footer>
+
+  <script>
+
+  </script>
+</body>
+</html>
