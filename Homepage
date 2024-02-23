@@ -169,7 +169,7 @@
 
   <!-- title or slogan  -->
   <div id="slogan">
-  <p>e<sup style="font-size: 15px;">⊝</sup> makes <img style="height: 35px; margin-bottom: -8px;" title="Atom" src="https://res.cloudinary.com/drp10qxxj/image/upload/v1707678683/download-Photoroom.png-Photoroom_gq6lbo.png"> powerfull</p>
+  <p>e<sup style="font-size: 15px;">⊝</sup> makes powerfull <img style="height: 35px; margin-bottom: -8px;" title="Atom" src="https://res.cloudinary.com/drp10qxxj/image/upload/v1707678683/download-Photoroom.png-Photoroom_gq6lbo.png"></p>
   </div>
 
   <!-- scientists ka code -->
@@ -194,7 +194,6 @@
     </div>
   </div>
   <br><br><br><br>
-
   <!-- footer -->
   <footer>
     <div class="foot">
@@ -222,9 +221,5 @@
       </ul>
     </div>
   </footer>
-
-  <script>
-
-  </script>
 </body>
 </html>
