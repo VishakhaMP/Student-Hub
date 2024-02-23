@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Student Hub</title>
+  <style>
+    header{
+      background: linear-gradient(100deg, #6343e4, #34acec);
+      padding: 10px;
+    }
+    #head{
+      font-size: 35px;
+      font-weight: 900;
+      color: white;
+      text-align: center;
+    }
+    body{
+      background: linear-gradient(90deg, #6343e4, #34acec);
+    }
+    #findbox{
+      height: 50px;
+      background-color: #454343;
+      display: inline;
+    }
+    #findbox1{
+      background-color: #fffeff;
+      color: black;
+      width: 1230px;
+      height: 30px;
+      margin-left: 10px;
+      margin-top: 10px;
+      border-radius: 20px;
+    }
+    .mainbox{
+      display: inline-flex;
+      background-color: #454543;
+      height: 400px;
+      margin-right: -6px;
+      color: #fffeff;
+      margin-bottom: 10px;
+    }
+    #mainbox1{
+      width: 400px;
+      border: 2px solid black;
+    }
+    .friends{
+      width: 400px;
+      height: 78px;
+      border-bottom: 1px solid #000000;
+      border-top: 1px solid #000000;
+      display: inline-flex;
+      background-color: #d4c090;
+      color: black;
+    }
+    #vish{
+      height: 50px;
+      margin-top: 10px;
+      margin-left: 10px;
+      border: 2px solid black;
+    }
+    #mainbox2{
+      width: 840px;
+      border: 2px solid black;
+      background-image: url(Student\ Hub/bg.jpg);
+      background-size: cover;
+    }
+    #msg1{
+      border-radius: 10px;
+      margin-right: 620px;
+      height: 30px;
+      background: linear-gradient(70deg, #f01fd1, #ea9cf5);
+    }
+    #msg2{
+      border-radius: 10px;
+      height:30px;
+      text-align: right;
+      background: linear-gradient(90deg, #2427dd, #32a3df);
+      margin-left: 620px;
+      margin-right: 10px;
+    }
+    #msg3{
+      border-radius: 10px;
+      margin-right: 550px;
+      height: 30px;
+      background: linear-gradient(70deg, #f01fd1, #ea9cf5);
+    }
+    #msg4{
+      border-radius: 10px;
+      height:30px;
+      text-align: right;
+      background: linear-gradient(90deg, #2427dd, #32a3df);
+      margin-left: 650px;
+      margin-right: 10px;
+    }
+    #msg5{
+      border-radius: 10px;
+      margin-right: 580px;
+      height: 50px;
+      background: linear-gradient(70deg, #f01fd1, #ea9cf5);
+    }
+    #msg6{
+      border-radius: 10px;
+      height:30px;
+      text-align: right;
+      background: linear-gradient(90deg, #2427dd, #32a3df);
+      margin-left: 700px;
+      margin-right: 10px;
+    }
+    #msg7{
+      border-radius: 10px;
+      margin-right: 780px;
+      height: 40px;
+      background: linear-gradient(70deg, #f01fd1, #ea9cf5);
+    }
+    #write{
+      background-color: #fffeff;
+      border-radius: 20px;
+      color: #000000;
+      height: 32px;
+      width: 720px;
+      margin-left: 40px;
+      margin-top: 10px;
+      display: inline-flex;
+      }
+    #send{
+      margin-left: 520px;
+      height: 30px;
+    }
+    footer{
+      height: 200px;
+      background-color:  rgb(0, 0, 0);
+      color: #fffeff;
+      border-radius: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .foot{
+      float: left;
+      margin-left: 100px;
+      margin-right: 100px;
+    }
+    .foot ul{
+      list-style: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+      <div id="head">Student Hub</div>
+  </header>
+
+    <hr color="black" width="1190px">
+    <p style="color: rgb(204, 200, 200);"></p>
+
+  <div id="findbox">
+    <div id="findbox1">
+    <p style="margin-left: 30px;"> 🔍 Search Friend</p>
+    </div>
+  </div>
+  <div class="mainbox">
+    <div id="mainbox1">
+      <div class="friends" id="frnd1">
+        <img id="vish" src="https://img.icons8.com/?size=128&id=43207&format=png">
+        <p style="margin-left: 20px; margin-top: 30px; font-size: larger; font-weight: 500;">Vishakha</p>
+      </div>
+      <div class="friends" id="frnd2">
+        <img id="vish" src="https://img.icons8.com/?size=128&id=103780&format=png">
+        <p style="margin-left: 20px; margin-top: 30px; font-size: larger; font-weight: 500;">Mit</p>
+      </div>
+      <div class="friends" id="frnd3">
+        <img id="vish" src="https://img.icons8.com/?size=128&id=103780&format=png">
+        <p style="margin-left: 20px; margin-top: 30px; font-size: larger; font-weight: 500;">Arpan</p> 
+      </div>
+      <div class="friends" id="frnd4">
+        <img id="vish" src="https://img.icons8.com/?size=128&id=43207&format=png">
+        <p style="margin-left: 20px; margin-top: 30px; font-size: larger; font-weight: 500;">Vaidohi</p>
+      </div>
+      <div class="friends" id="frnd5">
+        <img id="vish" src="https://img.icons8.com/?size=128&id=103780&format=png">
+        <p style="margin-left: 20px; margin-top: 30px; font-size: larger; font-weight: 500;">Jeet</p>
+      </div>
+    </div>
+    <div id="mainbox2">
+      <div id="msg1"><p style="margin-left: 20px;">Hii</p></div>
+      <div id="msg2"><p style="margin-right: 20px;">Hello!! How are you?</p></div>
+      <div id="msg3"><p style="margin-left: 20px;">I am good. What about you?</p></div>
+      <div id="msg4"><p style="margin-right: 20px;">Ya I am also good</p></div>
+      <div id="msg5"><p style="margin-left: 20px;">Are you going to attend the lecture today?</p></div>
+      <div id="msg6"><p style="margin-right: 20px;">Yes I am !!</p></div>
+      <div id="msg7"><p style="margin-left: 20px;">...</p></div>
+      <div id="write">
+        <p style="margin-left: 20px; margin-top: 3px;">Write a message</p>
+          <img id="send" src="https://img.icons8.com/?size=96&id=13767&format=png">
+      </div>
+    </div>
+  </div>
+
+
+  <footer>
+    <div class="foot">
+      <ul>
+        <h4><u>About Us</u></h4>
+        <li>Our Team</li>
+        <li>Our Motto</li>
+        <li>Blog</li>
+      </ul>
+    </div>
+    <div class="foot">
+      <ul>
+        <h4><u>Need Help?</u></h4>
+        <li>Help?</li>
+        <li>Terms and Conditions</li>
+        <li>Feedback or Suggetions</li>
+      </ul>
+    </div>
+    <div class="foot">
+      <ul>
+        <h4><u>Contact Us</u></h4>
+        <li>Email</li>
+        <li>Instagram</li>
+        <li>Linkedin</li>
+      </ul>
+    </div>
+  </footer>
+
+  <script>
+
+  </script>
+</body>
+</html>
