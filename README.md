@@ -1,1 +1,1 @@
-[StudentHubPreview](StudentHubPreview.png)
+![Student Hub Preview](StudentHubPreview.png)
